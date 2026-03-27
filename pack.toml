@@ -1,0 +1,13 @@
+name = "All the Mods 10"
+author = "ATMTeam"
+version = "6.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "18aa4d8b46069097323f72f0aa6fa0a56c2942b1dab3b781ab59df5bf68bf49f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.221"

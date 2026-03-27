@@ -13092,6 +13092,11 @@ hash = "c3233ab72a796b7a0fcea7fa22b88ef5ee0512daf3c767be4f88e6e4f30881b0"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "574807cedb57ba6360060d6bf4a359cea9d00bf8700caee866d48ab949005b89"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
@@ -13857,7 +13862,7 @@ metafile = true
 
 [[files]]
 file = "mods/im-fast.pw.toml"
-hash = "a7b43a5e9c934e22bebe3298ae5ec54bbf098f3506703a1581f901e6896797ff"
+hash = "474d64dba26d80c32a84ccdefc66d06dbf18503c17fe48927040fdf9026c5860"
 metafile = true
 
 [[files]]
@@ -14342,7 +14347,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
-hash = "c315824dfe979035e9943c2d6c051cb865e5501c8e48ac96860289a8fb81a28d"
+hash = "aebb0584b057847e605301fac10e669613bf9c9215ed7cbe6f49e6047487c680"
 metafile = true
 
 [[files]]
@@ -14422,7 +14427,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "74b3644a1ec1afa013fc29015177fb32d2ee88ac4e7081ffdcb4cca63ab02e14"
+hash = "95df77dc1c58207b317c8933867660abdaef61df64678eaaadac3fdf17cc3d6a"
 metafile = true
 
 [[files]]
@@ -14912,12 +14917,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "da653c26b1e82b8a718786ccd2fd6cf31dd07e1d9552c80024d47c0397aa5523"
+hash = "a66da60b40337e8bb57d81aef0f0c168771f2c6d8ae9d5e4af24031da2320795"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "ad278104876f2e043fa466b90be7b71c1ad4f53710e30f3c43a52ab4cbeb24a6"
+hash = "70cd30931bd186fd3f9770062dd998774ac9e1c0cf478938a62d5815ffdcfe5b"
 metafile = true
 
 [[files]]
@@ -15218,4 +15223,9 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
+metafile = true
+
+[[files]]
+file = "resourcepacks/corail_tombstone_redrawn.pw.toml"
+hash = "d06f70f5329c51b540652fe29a5f8d66ac8ddd711a3b45f5e3fb748fd3c9d4fe"
 metafile = true

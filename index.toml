@@ -13466,11 +13466,6 @@ hash = "bc1d52bd43eace5fe032e8815df90323adcc82ab765d382d5d4a536eee3a0f06"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "2e67c20c8e08ee6acb2b3c26c08a44958d9886bd213c41710e957739e9be4d48"
-metafile = true
-
-[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "589e6549cfe4f211abd2829fab1d00d9906a72d22b96f0fdb7e11fbb277ac1a1"
 metafile = true
